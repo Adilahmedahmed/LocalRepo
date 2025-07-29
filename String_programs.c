@@ -1,5 +1,5 @@
 // New feature is added
-// Bubble Sort Implementation in C
+// Bubble Sort Implementation in C and drop down
 #include<stdio.h>
 int main(){
     int arr[100], n, i, j, temp;
