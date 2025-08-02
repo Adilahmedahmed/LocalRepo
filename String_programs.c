@@ -28,4 +28,7 @@ int main(){
     printf("\n");
     return 0; 
 }
-
+// This code implements the Bubble Sort algorithm in C.
+// It sorts an array of integers in ascending order.
+// The user is prompted to enter the number of elements and the elements themselves.
+// The sorted array is then printed to the console.
